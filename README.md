@@ -24,7 +24,7 @@ What does sBITX Toolbox offer?
 Windows Versions
 -----
 
-Click the links if you are looking for the Windows version of [sBITX Manager](https://github.com/drexjj/sBITX-toolbox/releases/tag/v2.0.3-sBITX-Manager) and [sBITX Scanner](https://github.com/drexjj/sBITX-toolbox/releases/tag/v1.0-sBITX-Scanner).
+Click the link if you are looking for the Windows version of sBITX Manager and sBITX Scanner  [Releases](https://github.com/drexjj/sBITX-toolbox/releases).
 
 -----
 
@@ -33,14 +33,14 @@ Installation
 
 Install on you sBITX:
 
-Plese see the instruction guide for installation steps. [Instruction Guide](https://github.com/drexjj/sBITX-toolbox/blob/main/sBITX%20Toolbox%20Guide%20%20v2.0.pdf)
+Plese see the instruction guide for installation steps. [Instruction Guide](https://github.com/drexjj/sBITX-toolbox/blob/main/sBITX%20Toolbox%20Guide%20%20v2.1.pdf)
 
 -----
 
 Instruction Guide
 -----
 
-The detailed instruction guide is now in PDF format and is located at [Instruction Guide](https://github.com/drexjj/sBITX-toolbox/blob/main/sBITX%20Toolbox%20Guide%20%20v2.0.pdf)
+The detailed instruction guide is now in PDF format and is located at [Instruction Guide](https://github.com/drexjj/sBITX-toolbox/blob/main/sBITX%20Toolbox%20Guide%20%20v2.1.pdf)
 
 Release Notes are available at [Release Notes](https://github.com/drexjj/sBITX-toolbox/blob/main/release_notes.txt)
 
