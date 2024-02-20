@@ -1,6 +1,6 @@
 sBITX Toolbox:
 Version 2.1 - Fixed error in EZchanger when updating to the newest sBitx version release.
-Version 2.0 -  Major changes to the directory structure. Added a Log Exporter application. This version is not compatible with prior versions using the update checker. You must re-download the application. 
+Version 2.0 - Major changes to the directory structure. Added a Log Exporter application. This version is not compatible with prior versions using the update checker. You must re-download the application. 
 Version 1.7 - Added Macro Manager, Additional scripts to improve functionality, added icons to some apps.
 Version 1.6 - This is two major updates rolled into one, hence no v1.5. Added more functionality to sBITX Editor, Added a Time Sync app, Modified some settings in sBITX Manager to follow a numbering scheme, created and added a fix for telnet, and added troubleshooting steps in the guide. Fixed versioning to be more consistent.
 Version 1.4 - Added custom app option to the launcher and other improvements. Added additional commands to  sBITX Manager, removed compression command since it does not work on v3.x
