@@ -19,6 +19,8 @@ What does sBITX Toolbox offer?
 - sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
 - sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
 
+**Please note that sBITX-toolbox is currently compiled as a 32bit application. We will offer a 64bit version in the future.**
+
 -----
 
 Windows Versions
