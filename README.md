@@ -7,6 +7,9 @@ sBITX Toolbox is a collection of utilities and accessory applications for the sB
 
 -----
 
+***PLEASE NOTE: UPGRADING FROM A VERSION PRIOR TO 2.0 REQUIRES UNINSTALLATION OF THE TOOLBOX.***
+
+
 What does sBITX Toolbox offer?
 
 - sBITX Launcher: A convenient launcher style application that allows you to add, remove, or open apps with the click of a button.
