@@ -38,7 +38,16 @@ Installation
 
 Install on you sBITX:
 
-Plese see the instruction guide for installation steps. [Instruction Guide](https://github.com/drexjj/sBITX-toolbox/blob/main/sBITX%20Toolbox%20Guide%20%20v2.1.pdf)
+Open terminal and type
+```console
+cd $HOME
+git clone https://github.com/drexjj/sBITX-toolbox.git
+cd sBITX-toolbox
+chmod +x *.sh
+./installer.sh
+```
+
+Or see the instruction guide for installation steps. [Instruction Guide](https://github.com/drexjj/sBITX-toolbox/blob/main/sBITX%20Toolbox%20Guide%20%20v2.1.pdf)
 
 -----
 
