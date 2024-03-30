@@ -21,6 +21,7 @@ What does sBITX Toolbox offer?
 - sBITX Time Sync: An application to easily check your system time and adjust it from the press of a button. Useful for digital modes.
 - sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
 - sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
+- sBITX USB Headset Controller: An application that allows you to use USB audio devices like a headset, headphones, or microphone.
 
 **Please note that sBITX-toolbox is currently compiled as a 32bit application designed for the orignal sBitx operating system. We offer a 64bit version [HERE](https://github.com/drexjj/sBITX-toolbox64).**
 
