@@ -41,11 +41,7 @@ Install on you sBITX:
 
 Open terminal and type
 ```console
-cd $HOME
-git clone https://github.com/drexjj/sBITX-toolbox.git
-cd sBITX-toolbox
-chmod +x *.sh
-./installer.sh
+cd $HOME && git clone https://github.com/drexjj/sBITX-toolbox.git && cd sBITX-toolbox && chmod +x *.sh && ./installer.sh
 ```
 
 Or see the instruction guide for installation steps.
