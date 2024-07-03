@@ -13,15 +13,20 @@ sBITX Toolbox is a collection of utilities and accessory applications for the sB
 What does sBITX Toolbox offer?
 
 - sBITX Launcher: A convenient launcher style application that allows you to add, remove, or open apps with the click of a button.
+- sBITX Backlight Control: A touchscreen application to control the screen brightness for power conservation and eye comfort.
+- sBITX EZ Data: Application to manage configuration backups.
+- sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
+- sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
 - sBITX Manager: An application that can be used to store/recall frequency memories and provide auxiliary control of the transceiver.
 - sBITX Scanner: An application that scans frequency ranges aiding in finding activity.
 - sBITX Screen Resizer: A touchscreen application to change the default window size for better scrolling such as using WSJT-X and fldigi natively on the transceiver.
-- sBITX Backlight Control: A touchscreen application to control the screen brightness for power conservation and eye comfort.
-- sBITX EZ Tools: Applications to manage version upgrades/downgrades, configuration backups, and more.
-- sBITX Time Sync: An application to easily check your system time and adjust it from the press of a button. Useful for digital modes.
-- sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
-- sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
+- sBitx Time Sync: A utility that checks your time offset and syncs the system clock to a network time source.
+- sBitx Time Keeper: A utility that syncs the real-time clock (RTC) module inside your sBitx transceiver to the system clock or
+accurate time source. Useful for off-network communications and data modes.
 - sBITX USB Headset Controller: An application that allows you to use USB audio devices like a headset, headphones, or microphone.
+- sBITX Voice Keyer: An application that allows you to record, store, and transmit prerecorded voice messages commonly used for
+contests, DXing, POTA activations.etc with the press of a button.
+
 
 **Please note that sBITX-toolbox is currently compiled as a 32bit application designed for the orignal sBitx operating system. We offer a 64bit version [HERE](https://github.com/drexjj/sBITX-toolbox64).**
 
@@ -44,7 +49,16 @@ Open terminal and type
 cd $HOME && git clone https://github.com/drexjj/sBITX-toolbox.git && cd sBITX-toolbox && chmod +x *.sh && ./installer.sh
 ```
 
-Or see the instruction guide for installation steps.
+Upgrade
+-----
+
+If you encounter problems upgrading to v2.6, then please run this command from terminal.
+
+
+```console
+cd $HOME && cd sBITX-toolbox && git stash && git pull && chmod +x *.sh && ./upgrade.sh
+```
+Now run sBitx Toolbox and use the Update --> Check For Updates function again.
 
 -----
 

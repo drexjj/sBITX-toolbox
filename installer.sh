@@ -23,10 +23,10 @@ echo -e "[Desktop Entry]\nName=sBITX Apps\nExec=sh -c 'cd $working_directory && 
 # Update the menu
 sudo update-desktop-database
 
-echo "sBITX-Launcher setup completed successfully! The applications have been added to the Pi Menu"
+# Remove fake hw clock and setup RTC
+cd "$working_directory/scripts"
+./rtc_enable.sh
 
-# Added a 5-second pause
-echo "Starting sBITX-Launcher in 5 seconds..."
-sleep 5
+echo "sBITX-Launcher setup completed successfully! The applications have been added to the Pi Menu. The system needs to be rebooted."
 
-exec "/home/pi/sBITX-toolbox/sb_launcher"
+

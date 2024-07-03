@@ -1,4 +1,5 @@
 sBITX Toolbox:
+Version 2.7 - Fixed log exporter, enhanced voice keyer and USB headset, reorganized launcher, added Time Keeper, added path to web folder save for ezData.
 Version 2.2 - Added USB Headset Controller.
 Version 2.1 - Fixed error in EZchanger when updating to the newest sBitx version release.
 Version 2.0 - Major changes to the directory structure. Added a Log Exporter application. This version is not compatible with prior versions using the update checker. You must re-download the application. 
