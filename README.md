@@ -1,6 +1,10 @@
 # sBITX-toolbox
 sBITX Toolbox is a collection of utilities and accessory applications for the sBitx transceiver created by W9JES.
 
+This version is no longer supported or maintained. Use at your own risk and please do not ask for support. Our efforts have shifted to the 64 bit version only  [HERE](https://github.com/drexjj/sBITX-toolbox64).
+
+
+
 
 ![toolbox image](toolbox.jpg)
 
